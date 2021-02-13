@@ -11,5 +11,7 @@ Scotland,5.0<br />
 New Zealand,30.5<br />
 
 
-Image description
-![Test Image 1](3DTest.png)
+
+![task4.png](https://github.com/Lunalulululu/Natural-Language-Processing-of-Rugby-News-Website/blob/main/task4.png)
+
+![task5.png](https://github.com/Lunalulululu/Natural-Language-Processing-of-Rugby-News-Website/blob/main/task5.png)
