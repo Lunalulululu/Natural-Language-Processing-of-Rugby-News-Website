@@ -10,3 +10,6 @@ Wales,11.636363636363637<br />
 Scotland,5.0<br />
 New Zealand,30.5<br />
 
+
+Image description
+![Test Image 1](3DTest.png)
